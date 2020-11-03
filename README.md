@@ -1,6 +1,6 @@
 # starterApp
 
-A starter app for elm projects using mdgriffith/elm-ui
+A starter app for elm projects using `mdgriffith/elm-ui`
 
 ```
 $ elm make src/Main.elm
